@@ -4,7 +4,7 @@ Knockback:
     Horizontal: 0.35
     Vertical: 0.35
     VerticalLimit: 0.35
-    ExtraHorizontal: 0.375
+    ExtraHorizontal: 0.5
     ExtraVertical: 0.01
     SmoothKnockback: true
 #Friction should always be kept at 2.0 | Depending on Citizens Build
