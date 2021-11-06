@@ -19,4 +19,5 @@ Knockback:
     Sprint-Vertical-Limit: 0.35 #Currently in a Beta phase, should not be touched or modified
     Horizontal-Friction: 1.0
     Vertical-Friction: 1.0
+    Sprint-Slowdown: 0.6 #Not sure how this would function correctly
   
