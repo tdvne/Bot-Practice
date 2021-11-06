@@ -9,4 +9,14 @@ Knockback:
     SmoothKnockback: true
 #Friction should always be kept at 2.0 | Depending on Citizens Build
 #This is updated in recent A* code "Hidden".
-
+Knockback:
+  Classic:
+    Horizontal: 1.1
+    Vertical: 1.1
+    Veritcal Limit: 1.2 #Vertical Limit should always be increased by 1 above the Vertical 
+    Sprint-Horizontal: 0.35
+    Sprint-Vertical: 0.35
+    Sprint-Vertical-Limit: 0.35 #Currently in a Beta phase, should not be touched or modified
+    Horizontal-Friction: 1.0
+    Vertical-Friction: 1.0
+  
