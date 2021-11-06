@@ -1,3 +1,8 @@
+Default Knockback Profile: Velocity
+Changable in-game: false
+Editable in-game: false
+#Please make sure to have a selected priority in priority.yml
+
 Knockback:
   Velocity:
     Friction: 2.0 
