@@ -20,4 +20,5 @@ Knockback:
     Horizontal-Friction: 1.0
     Vertical-Friction: 1.0
     Sprint-Slowdown: 0.6 #Not sure how this would function correctly
+    #Should be adding more but too lazy to add code lmao.
   
