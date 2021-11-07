@@ -12,6 +12,8 @@ Override Main:
   FoxSpigot: false
   VegaSpigot: false
   mSpigot: false
+  kSpigot: false
+  CoronaSpigot: false
   BetterSpigot: false
 
 
