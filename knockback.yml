@@ -34,3 +34,6 @@ Knockback:
     SmoothKnockback: true  
     #Not sure about how Minemen Knockback will function but the latest feature of this is to be able to have the smooth and delicate knockback
     which is a dependency on CPS (Clicks per second)
+
+Server-Side Misplace:
+  settings: MMC #
