@@ -2,4 +2,34 @@
 
 settings:
   NPC Plugin: Citizens2 #Citizens, Custom(can be found in priority.yml
-  Knockback: 
+  Knockback: Minemen
+
+difficulties:
+  - Easy
+  - Normal
+  - Hard
+  - Expert
+  - Hacker
+#you can add unlimited :)
+
+Bot-settings:
+  AI: true
+  Machine Learning: false #requires MySQL or MongoDB
+  W-Tap: true
+  S-Tap: true
+  Block-Hit: false #currently very buggy
+  Strafe: false
+  Jump: true
+  Use-Pearl: true
+  Fast-Pot: true
+  
+Bot-Playstyle:
+  Run-from-combos: false
+  Turn-around-from-combos: false
+  Hit-Select: false #currently very buggy and new
+
+Bot-Pearl:
+  Side-Pearl: false
+  Pot-Pearl: false
+  Combo-Pearl: false
+  Agro-Pearl: true
