@@ -12,3 +12,14 @@ compatibility: #for other plugins you want to use with Bot Practice (VERY COMPAT
   Proxial-Practice: false
   IcePractice: false
   #if you have anymore plugins, please suggest them @ tdvne#0001 or https://discord.esta.land
+
+core-compatibility:
+  AquaCore: false
+  Essentials: false
+  LuckPerms: false
+  GroupManager: false
+  PermissionsEx: false
+  UltraPermissions: false
+  MizuCore: false
+
+
