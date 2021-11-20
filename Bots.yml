@@ -1,4 +1,5 @@
 #This is where you can edit all of the playstyles for bots and even add more!
 
 settings:
-  NPC Plugin: Citizens2 #Citizens, Custom(can be found in 
+  NPC Plugin: Citizens2 #Citizens, Custom(can be found in priority.yml
+  Knockback: 
