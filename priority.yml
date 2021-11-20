@@ -4,6 +4,7 @@ Override Folders:
   plugins: true
   Citizens-Hook: true #don't turn off
   Pathfinding-Hook: false #replace with true if you're using other pathfinding methods
+  Citizens-Fork: false #turn on if you have a fork
 
 Override Main:
   Spigot: true
