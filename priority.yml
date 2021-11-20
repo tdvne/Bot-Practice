@@ -30,4 +30,9 @@ Compatible Old Version:
   Bukkit: false
   Bukkit-API: false
   Bukkit-Citizens: false
+
+#Custom NPC Plugin
+NPCs Hook:
+  plugin-name: none 
+  force-compatibility: false
   
