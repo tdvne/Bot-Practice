@@ -1,0 +1,21 @@
+scoreboard:
+  enabled: true
+  scoreboard theme: MMC #PvPLand, Esta, Ghostly, Silex, Lunar, Custom(customizable below)
+  update-time: 10
+  disabled-worlds:
+  - exampleWorld
+title: '&c&lNA &f┃ &fBots'
+default: #A bunch of placeholders, for example <in_spectating_fights>, <in_bot_fights>, <staff_online_count>, <tps>, <time> etc.
+- '&7&m--------------'
+- '&fOnline: &c<players>
+- '&fIn Fights: &c<in_fights>
+- ''
+- '&fbotpractice.club
+- '&7&m--------------'
+in-game-match:
+- '&7&m--------------'
+- '&fYour Ping: &c<ping> ms'
+- '&fTheir Ping: &c<ping> ms'
+- ''
+- '&fbotpractice.club'
+- '&7&m--------------'
