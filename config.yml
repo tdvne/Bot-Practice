@@ -1,0 +1,14 @@
+#In the config, the things that should be changed should overall be the compatibility and options if you're using a Practice Plugin and want Bot-Practice to be compatible with it.
+
+settings:
+  Bots: true
+  
+compatibility: #for other plugins you want to use with Bot Practice (VERY COMPATIBLE)
+  StrikePractice: false #this is not a practice plugin you'd want to use with Bot Practice
+  Frost: false
+  Yang-Practice: false
+  Array-Practice: false
+  mPractice: false
+  Proxial-Practice: false
+  IcePractice: false
+  #if you have anymore plugins, please suggest them @ tdvne#0001 or https://discord.esta.land
