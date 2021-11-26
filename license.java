@@ -18,7 +18,7 @@ public class EstaSpigot {
    
    public EstaSpigot() {}
    
-   public static EstaSpigot getInstance() { return intance; }
+   public static EstaSpigot getInstance() { return instance; }
    
    private boolean registerLicense(string key)
    {
