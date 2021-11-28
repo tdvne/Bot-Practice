@@ -39,7 +39,7 @@ Server-Side Misplace:
   settings: 
   type: MMC #MMC, Esta, Custom(customizable below)
   blatant: false
-  noticable: false
+  noticable: false #For players to notice the misplace
   smooth-combo: true
   enhanced-performance: true
   fixed-kb: true #if you don't want bots to go flying back
