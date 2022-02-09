@@ -22,6 +22,7 @@ Bot-settings:
   Jump: true
   Use-Pearl: true
   Fast-Pot: true
+  Agro: false
   
 Bot-Playstyle:
   Run-from-combos: false
