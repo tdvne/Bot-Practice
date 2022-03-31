@@ -49,8 +49,9 @@ Misplace options:
   Move-Back-Visual: 0.2 #This is by block move back
   Actual-Reach: 3.02
   Packet-Rate: 20 #should be kept at 20 for smoother performance but can be changed depending on server RAM.
-  AsyncHeartBeat: true
+  AsyncHeartBeat: false #Experimental, need to re-code this area
   AsyncKnockback: true
   AsyncReach: true
+  AsyncKeepAlive: true #Temporary replacement for AsyncHeartBeat
  
   
