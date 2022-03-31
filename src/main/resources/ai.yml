@@ -1,0 +1,12 @@
+# Custom Artificial Intelligence Learning
+# Orginially created by tdvne & further improved by Aurora
+
+Main-AI:
+ Pathfinding-Main-Algorithm: A* #DO NOT CHANGE
+ Auto-Learn: true
+ 
+Secondary-AI:
+ Auto-update: true
+
+Developer-API:
+ Github: '' #Still working in progress 
