@@ -7,10 +7,10 @@ scoreboard:
 title: '&c&lNA &f┃ &fBots'
 default: #A bunch of placeholders, for example <in_spectating_fights>, <in_bot_fights>, <staff_online_count>, <tps>, <time> etc.
 - '&7&m--------------'
-- '&fOnline: &c<players>
-- '&fIn Fights: &c<in_fights>
+- '&fOnline: &c<players>'
+- '&fIn Fights: &c<in_fights>'
 - ''
-- '&fbotpractice.club
+- '&fbotpractice.club'
 - '&7&m--------------'
 in-game-match:
 - '&7&m--------------'
@@ -19,3 +19,10 @@ in-game-match:
 - ''
 - '&fbotpractice.club'
 - '&7&m--------------'
+spectators:
+- '&7&m--------------'
+- '&9<player> &f(<player_ping> ms)'
+- '&f vs'
+- '&cBot &f(0 ms)'
+- '&7&m--------------'
+# You can make the Bot ms at any number, 0 or use <bot_server_lag> placeholder to calculate the ping of the Bot according to the lag of the server

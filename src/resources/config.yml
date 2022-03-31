@@ -11,6 +11,9 @@ compatibility: #for other plugins you want to use with Bot Practice (VERY COMPAT
   mPractice: false
   Proxial-Practice: false
   IcePractice: false
+  nPractice: false
+  cPractice: false
+  hPractice: false
   #if you have anymore plugins, please suggest them @ tdvne#0001 or https://discord.esta.land
 
 core-compatibility:
