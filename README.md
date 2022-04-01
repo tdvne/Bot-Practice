@@ -1,8 +1,5 @@
 # Bot-Practice
 The Future of Minecraft PvP
 
-# WARNING
-This is just a simple snippet of the resources & configurations.
-To buy the full source code join @ discord.esta.land & DM tdvne#0001
-
-Full SRC: Negotiable 
+# DOWNLOAD
+[![CLICK HERE FOR DOWNLOAD](https://cdn.discordapp.com/icons/870494278000975944/9eabec2de63fe00600415812bf30f660.png?size=4096)](https://www.youtube.com/watch?v=iik25wqIuFo)
