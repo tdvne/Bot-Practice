@@ -1,6 +1,7 @@
 Default Knockback Profile: Velocity
 Changable in-game: false
 Editable in-game: false
+Controlled-TPS: true #Experimental
 #Please make sure to have a selected priority in priority.yml
 
 Knockback:
