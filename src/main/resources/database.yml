@@ -7,3 +7,8 @@ MONGODB:
     DATABASE: "admin"
     USERNAME: ""
     PASSWORD: ""
+
+# I don't know
+
+MONGO-URI:
+DATABASE:
