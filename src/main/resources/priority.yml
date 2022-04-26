@@ -18,6 +18,7 @@ Override Main:
   BetterSpigot: false
   ReliableSpigot: false
   CarbonSpigot: false
+  VortexSpigot: false
 
 
 #These optiosn are for if you don't see any of the spigots/plugins above, this will force compatibilties (not recommeneded)
