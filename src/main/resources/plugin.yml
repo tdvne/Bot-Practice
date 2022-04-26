@@ -5,3 +5,4 @@ authors:
  - tdvne
 website: https://esta.land
 description: The Future of Minecraft PvP
+softdepend: [PlaceholderAPI, Citizens2]
