@@ -1,1 +1,31 @@
+QUEUE-MENU:
+ MENU-NAME: &c&lQueues
+ SIZE: 3
+ MENU-CONTAINER:
+  NAME: '&c&lBot Queues'
+  ITEM-ID: DIAMOND_SWORD
+  SLOT: 10
+  LORE:
+   - '&7&m--------------------'
+   - '&fQueue realistic Bots and'
+   - '&fpractice your pvp skills.'
+   - ''
+   - '&aClick to play!'
+   - '&7&m--------------------'
+  EXECUTE-COMMAND: '/botpractice:openmenu_botselection'
 
+BOT-SELECTION-MENU:
+ MENU-NAME: &c&lSelect a Kit
+ SIZE: 5
+ MENU-CONTAINER:
+  NAME: '&c&l<kit_name>'
+  LORE:
+   - '&7&m--------------------'
+   - '&fPlaying: &c<in_match_<kit_name>'
+   - '&fQueuing: &c<in_match_queuing_<kit_name>'
+   - ''
+   - '&aClick to play!'
+   - '&7&m--------------------'
+  EXECUTE-COMMAND: '/botpractice:joinqueue <kit_name>'
+  QUEUE-WAITING-TIME: 3 # In seconds
+  BYPASS-PERMISSION: true # botpractice.bypassqueue
