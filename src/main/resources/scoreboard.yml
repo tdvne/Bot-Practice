@@ -24,9 +24,16 @@ spectators:
 - '&9<player> &f(<player_ping> ms)'
 - '&f vs'
 - '&cBot &f(0 ms)'
+- ''
+- '&cbotpractice.club'
 - '&7&m--------------'
 # You can make the Bot ms at any number, 0 or use <bot_server_lag> placeholder to calculate the ping of the Bot according to the lag of the server
 replay:
 - '&7&m--------------'
+- '&c&lReplay:'
+- ' &9<player> &f(<player_ping> ms)'
+- ' &fvs'
+- ' &cBot &f(0 ms)' 
 - ''
+- '&fbotpractice.club'
 - '&7&m--------------'
