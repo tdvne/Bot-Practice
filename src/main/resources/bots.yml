@@ -1,7 +1,7 @@
 #This is where you can edit all of the playstyles for bots and even add more!
 
 settings:
-  NPC Plugin: Citizens2 #Citizens, Custom(can be found in priority.yml
+  NPC Plugin: Citizens2 #Citizens, Custom(can be found in priority.yml)
   Knockback: Minemen
 
 difficulties:
@@ -23,6 +23,7 @@ Bot-settings:
   Use-Pearl: true
   Fast-Pot: true
   Agro: false
+  Flick: false # Bot's will style (360's, Flick, etc)
   
 Bot-Playstyle:
   Run-from-combos: false
