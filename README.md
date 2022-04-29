@@ -6,9 +6,6 @@ Currently this project is discontinued however worked on from time to time as a 
 
 # TO-DO LIST
 
-- Add Scandium Core Support
-- Add HestiaCore Support
-- Add Custom Core Support (Internal Developer API)
 - Configurable Messages.yml
 - Finished Configurable Menu.yml
 - Fix Bugs with Multiverse-Core
