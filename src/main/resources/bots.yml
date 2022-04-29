@@ -1,10 +1,10 @@
 #This is where you can edit all of the playstyles for bots and even add more!
 
-settings:
+Settings:
   NPC Plugin: Citizens2 #Citizens, Custom(can be found in priority.yml)
   Knockback: Minemen
 
-difficulties:
+Difficulties:
   - Easy
   - Normal
   - Hard
@@ -12,18 +12,30 @@ difficulties:
   - Hacker
 #you can add unlimited :)
 
-Bot-settings:
+Bot-Settings:
   AI: true
   Machine Learning: false #requires MySQL or MongoDB
-  W-Tap: true
-  S-Tap: true
   Block-Hit: false #currently very buggy
   Strafe: false
   Jump: true
-  Use-Pearl: true
   Fast-Pot: true
   Agro: false
   Flick: false # Bot's will style (360's, Flick, etc)
+
+W-Tap:
+  W-Tap: true
+   W-Tap-Chances: 70 # In percentages
+   W-Tap-Delay: 3 # In ticks
+ 
+S-Tap:
+  S-Tap: true
+   S-Tap-Chances: 70 # In percentages
+   S-Tap-Delay: 5 # In ticks
+
+Bot-Pot:
+  Fast-Pot: true
+   Turn-Around-Distance: 1 # In blocks (modifies how many blocks the Bot turns during potting)
+   Pot-Delay: 0 # In ticks
   
 Bot-Playstyle:
   Run-from-combos: false
@@ -31,7 +43,14 @@ Bot-Playstyle:
   Hit-Select: false #currently very buggy and new
 
 Bot-Pearl:
-  Side-Pearl: false
-  Pot-Pearl: false
-  Combo-Pearl: false
-  Agro-Pearl: true
+  Use-Pearl: true
+   Side-Pearl: false
+   Pot-Pearl: false
+    Safe-Distance: true
+     Distance: 15 # In blocks (only works if Safe-Distance is set to false)
+     Health-To-Teleport: 4 # In hearts out of 20
+   Combo-Pearl: false
+    Combo-Amount: 6 # When the Bot gets you into a combo it will pearl on this amount
+     Keep-Combo-After-Pearl: true
+     Next-Pearl-Delay: 30 # In seconds
+   Agro-Pearl: true
