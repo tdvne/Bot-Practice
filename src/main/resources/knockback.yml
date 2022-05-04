@@ -35,6 +35,14 @@ Knockback:
     SmoothKnockback: true  
     #Not sure about how Minemen Knockback will function but the latest feature of this is to be able to have the smooth and delicate knockback
     which is a dependency on CPS (Clicks per second)
+Knockback:
+  Lunar:
+    Friction: 1.5
+    Horizontal: 0.46
+    Vertical: 0.3535
+    Vertical-Limit: 0.3535
+    Sprint-Horizontal: 1.3
+    Slowdown-Horizontal: 0.6
 
 Server-Side Misplace:
   settings: 
