@@ -27,6 +27,15 @@ spectators:
 - ''
 - '&cbotpractice.club'
 - '&7&m--------------'
+in-party-lobby:
+- '&7&m--------------'
+- '&fOnline: &c<players>'
+- '&fIn Fights: &c<in_fights>'
+- ''
+- 'Party:'
+- ' Leader: <party_leader>'
+- ' Members: <party_members>/<party_members_limit>'
+- '&7&m--------------'
 # You can make the Bot ms at any number, 0 or use <bot_server_lag> placeholder to calculate the ping of the Bot according to the lag of the server
 
 # EVERYTHING BELOW DOES NOT CHANGE WITH THE THEME SELECTOR ABOVE! #
