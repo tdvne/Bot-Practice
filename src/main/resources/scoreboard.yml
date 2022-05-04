@@ -32,9 +32,9 @@ in-party-lobby:
 - '&fOnline: &c<players>'
 - '&fIn Fights: &c<in_fights>'
 - ''
-- 'Party:'
-- ' Leader: <party_leader>'
-- ' Members: <party_members>/<party_members_limit>'
+- '&fParty:'
+- ' &fLeader: &c<party_leader>'
+- ' &fMembers: &c<party_members>&f/&c<party_members_limit>'
 - '&7&m--------------'
 # You can make the Bot ms at any number, 0 or use <bot_server_lag> placeholder to calculate the ping of the Bot according to the lag of the server
 
