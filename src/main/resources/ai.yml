@@ -4,6 +4,12 @@
 Main-AI:
  Pathfinding-Main-Algorithm: A* #DO NOT CHANGE
  Auto-Learn: true
+   Data-Collected: # Experimental
+    Running: true
+    Strafing: true
+    Pearling: true
+    Per-Block: false
+    Combolock: true
  
 Secondary-AI:
  Auto-update: true
