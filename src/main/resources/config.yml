@@ -18,3 +18,22 @@ compatibility: #for other plugins you want to use with Bot Practice (VERY COMPAT
   Cold-Practice: false #Not sure if this will work, just praying that it will, doubt anyone would use it though
   PotPvP: false #Should work with mostly every fork
   #if you have anymore plugins, please suggest them @ tdvne#0001 or https://discord.esta.land
+
+# Custom Artificial Intelligence Learning
+# Orginially created by tdvne & further improved by Aurora
+
+Main-AI:
+ Pathfinding-Main-Algorithm: A* #DO NOT CHANGE
+ Auto-Learn: true
+   Data-Collected: # Experimental
+    Running: true
+    Strafing: true
+    Pearling: true
+    Per-Block: false
+    Combolock: true
+ 
+Secondary-AI:
+ Auto-update: true
+
+Developer-API:
+ Github: '' #Still working in progress 
