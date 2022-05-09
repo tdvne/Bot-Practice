@@ -14,11 +14,10 @@ Difficulties:
 
 Bot-Settings:
   AI: true
-  Machine Learning: false #requires MySQL or MongoDB
-  Block-Hit: false #currently very buggy
-  Strafe: false
+    Machine-Learning: false #requires MySQL or MongoDB
+
+Bot-Settings:
   Jump: true
-  Fast-Pot: true
   Agro: false
   Flick: false # Bot's will style (360's, Flick, etc)
 
@@ -26,11 +25,22 @@ W-Tap:
   W-Tap: true
    W-Tap-Chances: 70 # In percentages
    W-Tap-Delay: 3 # In ticks
+
+Block-Hit:
+  Block-Hit: false
+   Block-Hit-Combo: Before # 3 Options (Before/During/After) Leave Blank if None
+   Block-Hit-Chances: 80 # In percentages
  
 S-Tap:
   S-Tap: true
    S-Tap-Chances: 70 # In percentages
    S-Tap-Delay: 5 # In ticks
+
+Strafe:
+  Strafe: false
+   Strafe-Combo: All # 4 Options (Before/During/After/All) Leave Blank if None
+   Stafe-Delay: 3 # In ticks / During Combo
+   Strafe-Chances: Randomized # In ticks
 
 Bot-Pot:
   Fast-Pot: true
