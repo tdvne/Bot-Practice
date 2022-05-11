@@ -2,6 +2,7 @@
 
 settings:
   Bots: true
+   Debug: false # Experimental / Developers Only
   
 compatibility: #for other plugins you want to use with Bot Practice (VERY COMPATIBLE)
   StrikePractice: false #this is not a practice plugin you'd want to use with Bot Practice
